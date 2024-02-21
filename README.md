@@ -6,4 +6,4 @@
 "Line 2 for bug-fix branch"
 "Line 1 for bug-fix-experimental branch" // Maybe this is a newer fix
 "Line 2 for bug-fix-experimental branch" 
-"Line 3 for bug-fix-experimental branch" 
+"Line 3 for bug-fix-experimental branch" "Line 4 for master branch" 

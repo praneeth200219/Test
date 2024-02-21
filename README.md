@@ -7,3 +7,4 @@
 "Line 2 for bug-fix branch" 
 >>>>>>> bug-fix
 "Line 1 for bug-fix-experimental branch" 
+"Line 2 for bug-fix-experimental branch" 
